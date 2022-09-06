@@ -1,0 +1,41 @@
+{
+  "name": "StyleSch",
+  "description": "style schematic",
+  "id": "StyleSch",
+  "author": "jT",
+  "version": "0.1.0",
+  "scripts": [
+    "main.js"
+  ],
+  "icons": {
+    "default": "icon.svg"
+  },
+  "runner": {
+    "menu": {
+      "title": "StyleSch",
+      "scope": "sch,schlib",
+      "items": [
+        {
+          "title": "ORCAD",
+          "command": "StyleSch-cmd.orcad"
+        },
+        {
+          "title": "Font Annotate 3",
+          "command": "StyleSch-cmd.FontAnnotate3"
+        },
+        {
+          "title": "Font Annotate 4",
+          "command": "StyleSch-cmd.FontAnnotate4"
+        },
+        {
+          "title": "Align Package String",
+          "command": "StyleSch-cmd.AlignPackageString"
+        },
+        {
+          "title": "Console Log",
+          "command": "StyleSch-cmd.Log"
+        }
+      ]
+    }
+  }
+}

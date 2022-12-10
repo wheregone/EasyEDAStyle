@@ -20,8 +20,8 @@
           "command": "StyleSch-cmd.orcad"
         },
         {
-          "title": "Font Annotate 3",
-          "command": "StyleSch-cmd.FontAnnotate3"
+          "title": "Font NK57MonospaceCdRg-Regular",
+          "command": "StyleSch-cmd.FontNK57MonospaceCdRg-Regular"
         },
         {
           "title": "Font Annotate 4",

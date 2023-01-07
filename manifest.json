@@ -20,16 +20,8 @@
           "command": "StyleSch-cmd.orcad"
         },
         {
-          "title": "Font NK57MonospaceCdRg-Regular",
-          "command": "StyleSch-cmd.FontNK57MonospaceCdRg-Regular"
-        },
-        {
-          "title": "Font Annotate 4",
-          "command": "StyleSch-cmd.FontAnnotate4"
-        },
-        {
-          "title": "Align Package String",
-          "command": "StyleSch-cmd.AlignPackageString"
+          "title": "Orcad Narrow Arial",
+          "command": "StyleSch-cmd.OrcadNarrowArial"
         },
         {
           "title": "Console Log",
